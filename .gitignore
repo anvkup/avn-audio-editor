@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# PySide / app
+*.log
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
